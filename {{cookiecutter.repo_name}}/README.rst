@@ -105,8 +105,6 @@ Overview
 
 {{ cookiecutter.project_short_description|wordwrap(119) }}
 
-* Free software: BSD license
-
 Installation
 ============
 
